@@ -1,70 +1,110 @@
 ﻿[
     {
-        "card_name": "mw01 Akhundelar",
-        "number": 19,
+        "card_name": "Akhundelar",
+        "number": 9,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "47"
     },
     {
-        "card_name": "mu01 Shadow Operative",
-        "number": 54,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "107"
-    },
-    {
-        "card_name": "mb01 Kaiser Ultralisk",
-        "number": 89,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "114"
-    },
-    {
-        "card_name": "mr01 Emperor Arcturus Mengsk",
-        "number": 124,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "112"
-    },
-    {
-        "card_name": "mg01 Doctor Ariel Hanson",
-        "number": 159,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "203"
-    },
-    {
-        "card_name": "mw02 Rebel Command Ship",
-        "number": 20,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "190"
-    },
-    {
-        "card_name": "mu02 Daelaam Mothership",
-        "number": 55,
+        "card_name": "Daelaam Mothership",
+        "number": 52,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "187"
     },
     {
-        "card_name": "mb02 Nerazim Tempest",
+        "card_name": "Kaiser Ultralisk",
         "number": 90,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Emperor Arcturus Mengsk",
+        "number": 122,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Doctor Ariel Hanson",
+        "number": 155,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Gantrithor, Flagship",
+        "number": 24,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Shadow Operative",
+        "number": 68,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Nerazim Tempest",
+        "number": 93,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "188"
     },
     {
-        "card_name": "mr02 Gorgon Battlecruiser",
+        "card_name": "Fury of the Queen",
+        "number": 123,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Endless March of the Swarm",
+        "number": 157,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Rebel Command Ship",
+        "number": 36,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Tassadar, Heretical Saviour",
+        "number": 71,
+        "shape": "planeswalker",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "The Overmind",
+        "number": 97,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Gorgon Battlecruiser",
         "number": 125,
         "shape": "normal",
         "set": "SCDS",
@@ -72,447 +112,687 @@
         "position": "189"
     },
     {
-        "card_name": "mg02 Swarm Leviathan",
-        "number": 160,
+        "card_name": "Swarm Leviathan",
+        "number": 176,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "53"
     },
     {
-        "card_name": "mw03 Gantrithor, Flagship",
-        "number": 21,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "204"
-    },
-    {
-        "card_name": "mu03 Tassadar, Heretical Saviour",
-        "number": 56,
-        "shape": "planeswalker",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "36"
-    },
-    {
-        "card_name": "mb03 The Overmind",
-        "number": 91,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "160"
-    },
-    {
-        "card_name": "mr03 Fury of the Queen",
-        "number": 126,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "209"
-    },
-    {
-        "card_name": "mg03 Endless March of the Swarm",
-        "number": 161,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "161"
-    },
-    {
-        "card_name": "rw01 Daelaam Praetor",
-        "number": 22,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "110"
-    },
-    {
-        "card_name": "ru01 Daelaam Illusionist",
-        "number": 57,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "rb01 Biomass Assimilator",
-        "number": 92,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "95"
-    },
-    {
-        "card_name": "rr01 Ravenous Swarm",
-        "number": 127,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "104"
-    },
-    {
-        "card_name": "rg01 Terror of the Hive",
-        "number": 162,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "101"
-    },
-    {
-        "card_name": "rw02 Medical Lieutenant",
-        "number": 23,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "226"
-    },
-    {
-        "card_name": "ru02 Overqueen Harvester",
-        "number": 58,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "108"
-    },
-    {
-        "card_name": "rb02 Void Extractor",
-        "number": 93,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "167"
-    },
-    {
-        "card_name": "rr02 Covert Operative",
-        "number": 128,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "106"
-    },
-    {
-        "card_name": "rg02 Broken Horn Pack",
-        "number": 163,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "102"
-    },
-    {
-        "card_name": "rw03 Daelaam Immortal",
-        "number": 24,
+        "card_name": "Daelaam Immortal",
+        "number": 13,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "111"
     },
     {
-        "card_name": "ru03 Derelict Infiltrator",
-        "number": 59,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "144"
-    },
-    {
-        "card_name": "rb03 Tal'Darim Blood Hunter",
-        "number": 94,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "96"
-    },
-    {
-        "card_name": "rr03 Moebius Mining Team",
-        "number": 129,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "105"
-    },
-    {
-        "card_name": "rg03 Death Head Salvager",
-        "number": 164,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "103"
-    },
-    {
-        "card_name": "rw04 Guardian Templar",
-        "number": 25,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "235"
-    },
-    {
-        "card_name": "ru04 Chrono Manipulator",
-        "number": 60,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "239"
-    },
-    {
-        "card_name": "rb04 Brood Leviathan",
-        "number": 95,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "97"
-    },
-    {
-        "card_name": "rr04 Relentless Brood",
-        "number": 130,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "149"
-    },
-    {
-        "card_name": "rg04 Hive Queen",
-        "number": 165,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "238"
-    },
-    {
-        "card_name": "rw05 Rebel Command",
-        "number": 26,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "266"
-    },
-    {
-        "card_name": "ru05 Analytical Command",
-        "number": 61,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "265"
-    },
-    {
-        "card_name": "rb05 Diabolic Command",
-        "number": 96,
+        "card_name": "Analytical Command",
+        "number": 45,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "264"
     },
     {
-        "card_name": "rr05 Dominion Command",
-        "number": 131,
+        "card_name": "Biomass Assimilator",
+        "number": 79,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "263"
+        "position": "95"
     },
     {
-        "card_name": "rg05 Swarm Command",
-        "number": 166,
+        "card_name": "Covert Operative",
+        "number": 115,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Broken Horn Pack",
+        "number": 148,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Daelaam Praetor",
+        "number": 15,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Chrono Manipulator",
+        "number": 48,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Brood Leviathan",
+        "number": 81,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Dominion Command",
+        "number": 117,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "262"
     },
     {
-        "card_name": "rw06 Prophecy of Salvation",
-        "number": 27,
+        "card_name": "Death Head Salvager",
+        "number": 153,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "34"
+        "position": "103"
     },
     {
-        "card_name": "ru06 Prophecy of Uncertanty",
-        "number": 62,
+        "card_name": "Fracture Point",
+        "number": 22,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "44"
+        "position": "239"
     },
     {
-        "card_name": "rb06 Prophecy of Destruction",
-        "number": 97,
+        "card_name": "Daelaam Illusionist",
+        "number": 51,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "35"
+        "position": "113"
     },
     {
-        "card_name": "rr06 Prophecy of Creation",
-        "number": 132,
+        "card_name": "Diabolic Command",
+        "number": 85,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "42"
+        "position": "263"
     },
     {
-        "card_name": "rg06 Prophecy of Unity",
-        "number": 167,
+        "card_name": "Earthsplitter Ordnance",
+        "number": 121,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "43"
+        "position": "235"
     },
     {
-        "card_name": "rw07 Fracture Point",
-        "number": 28,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "240"
-    },
-    {
-        "card_name": "ru07 Wisdom of the Collective",
-        "number": 63,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "109"
-    },
-    {
-        "card_name": "rb07 Power Incarnate",
-        "number": 98,
+        "card_name": "Hive Queen",
+        "number": 160,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "237"
     },
     {
-        "card_name": "rr07 Earthsplitter Ordnance",
-        "number": 133,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "236"
-    },
-    {
-        "card_name": "rg07 Primordial Law",
-        "number": 168,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "191"
-    },
-    {
-        "card_name": "uw01 Frontline Combatant",
-        "number": 29,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "148"
-    },
-    {
-        "card_name": "uu01 Nerazim Oracle",
-        "number": 64,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "224"
-    },
-    {
-        "card_name": "ub01 Returned Dragoon",
-        "number": 99,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "79"
-    },
-    {
-        "card_name": "ur01 Dominion Assault Trooper",
-        "number": 134,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "173"
-    },
-    {
-        "card_name": "ug01 Zergling Swarm",
-        "number": 169,
+        "card_name": "Guardian Templar",
+        "number": 26,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "234"
     },
     {
-        "card_name": "uw02 Marine Patrol",
-        "number": 30,
+        "card_name": "Derelict Infiltrator",
+        "number": 55,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "127"
+        "position": "144"
     },
     {
-        "card_name": "uu02 Ground Support",
+        "card_name": "Power Incarnate",
+        "number": 98,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Moebius Mining Team",
+        "number": 130,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Primordial Law",
+        "number": 165,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Medical Lieutenant",
+        "number": 29,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Overqueen Harvester",
+        "number": 64,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Prophecy of Destruction",
+        "number": 99,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Prophecy of Creation",
+        "number": 134,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Prophecy of Unity",
+        "number": 166,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Prophecy of Salvation",
+        "number": 32,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Prophecy of Uncertanty",
         "number": 65,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "120"
+        "position": "44"
     },
     {
-        "card_name": "ub02 Regenerative Baneling",
-        "number": 100,
+        "card_name": "Tal'Darim Blood Hunter",
+        "number": 109,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "80"
+        "position": "96"
     },
     {
-        "card_name": "ur02 Hellion Strike Team",
-        "number": 135,
+        "card_name": "Ravenous Swarm",
+        "number": 137,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Swarm Command",
+        "number": 174,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "Rebel Command",
+        "number": 35,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "265"
+    },
+    {
+        "card_name": "Wisdom of the Collective",
+        "number": 77,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Void Extractor",
+        "number": 112,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Relentless Brood",
+        "number": 139,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Terror of the Hive",
+        "number": 180,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Aiur Veteran",
+        "number": 8,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Adept Praetor",
+        "number": 43,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Aspiring Ascendant",
+        "number": 78,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Dominion Assault Trooper",
+        "number": 116,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Brutalisk",
+        "number": 150,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Boundless Fury",
+        "number": 10,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Brood Overlord",
+        "number": 46,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Cull the Unworthy",
+        "number": 84,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Dominion Ghost",
+        "number": 118,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Creeper Host",
+        "number": 152,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Daelaam Mentor",
+        "number": 14,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Consider Options",
+        "number": 49,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "Infestation Process",
+        "number": 88,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "Ghost Recon",
+        "number": 124,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "242"
     },
     {
-        "card_name": "ug02 Expo Scouts",
-        "number": 170,
+        "card_name": "Deep Mining Station",
+        "number": 154,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "84"
+        "position": "89"
     },
     {
-        "card_name": "uw03 Eternal Dragoon",
-        "number": 31,
+        "card_name": "Eternal Dragoon",
+        "number": 19,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "128"
     },
     {
-        "card_name": "uu03 Star Reader",
-        "number": 66,
+        "card_name": "Escaped Specimen",
+        "number": 56,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "194"
+        "position": "121"
     },
     {
-        "card_name": "ub03 Swarm Corruptor",
+        "card_name": "Infested Fortress",
+        "number": 89,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Hellion Strike Team",
+        "number": 126,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Expo Scouts",
+        "number": 158,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Excavation Job",
+        "number": 20,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Ground Support",
+        "number": 58,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Mutually Assured Decimation",
+        "number": 91,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Joyride",
+        "number": 128,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Mend",
+        "number": 161,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Frontline Combatant",
+        "number": 23,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Mutually Assured Disruption",
+        "number": 60,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Nerazim Seer",
+        "number": 92,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Leaping Strike",
+        "number": 129,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Mutually Assured Demolition",
+        "number": 162,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Glory of Combat",
+        "number": 25,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Nerazim Corsair",
+        "number": 61,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Prophetic Visions",
+        "number": 100,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Mutually Assured Devastation",
+        "number": 131,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Powered Combat Suit",
+        "number": 163,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Lockdown Specialist",
+        "number": 27,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Nerazim Oracle",
+        "number": 62,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Psionic Grip",
         "number": 101,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "163"
+        "position": "16"
     },
     {
-        "card_name": "ur03 Swarm Ultraling",
+        "card_name": "Necessary Sacrifices",
+        "number": 132,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Raiders Reinforcements",
+        "number": 168,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Marine Patrol",
+        "number": 28,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Psionic Consumption",
+        "number": 66,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "The Queen's Decree",
+        "number": 102,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Psionic Efficiency",
+        "number": 135,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Repurpose Biomass",
+        "number": 170,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Mutually Assured Destruction",
+        "number": 30,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Shuttle Drop",
+        "number": 69,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Reconstitution",
+        "number": 103,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Raptor Strain",
         "number": 136,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "116"
+        "position": "117"
     },
     {
-        "card_name": "ug03 Scouting Zergling",
+        "card_name": "Scouting Zergling",
         "number": 171,
         "shape": "normal",
         "set": "SCDS",
@@ -520,207 +800,47 @@
         "position": "193"
     },
     {
-        "card_name": "uw04 Lockdown Specialist",
-        "number": 32,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "129"
-    },
-    {
-        "card_name": "uu04 Nerazim Corsair",
-        "number": 67,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "177"
-    },
-    {
-        "card_name": "ub04 Aspiring Ascendant",
-        "number": 102,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "150"
-    },
-    {
-        "card_name": "ur04 Raptor Strain",
-        "number": 137,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "117"
-    },
-    {
-        "card_name": "ug04 Swarm Host",
-        "number": 172,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "85"
-    },
-    {
-        "card_name": "uw05 Aiur Veteran",
-        "number": 33,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "130"
-    },
-    {
-        "card_name": "uu05 Adept Praetor",
-        "number": 68,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "122"
-    },
-    {
-        "card_name": "ub05 Infested Fortress",
-        "number": 103,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "174"
-    },
-    {
-        "card_name": "ur05 Dominion Ghost",
-        "number": 138,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "151"
-    },
-    {
-        "card_name": "ug05 Spartan Company",
-        "number": 173,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "86"
-    },
-    {
-        "card_name": "uw06 Transformative Vikings",
-        "number": 34,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "229"
-    },
-    {
-        "card_name": "uu06 Escaped Specimen",
-        "number": 69,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "121"
-    },
-    {
-        "card_name": "ub06 Tal'Darim Zealot",
-        "number": 104,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "81"
-    },
-    {
-        "card_name": "ur06 Swarm Broodlord",
-        "number": 139,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "162"
-    },
-    {
-        "card_name": "ug06 Creeper Host",
-        "number": 174,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "62"
-    },
-    {
-        "card_name": "uw07 Praetor Zealot",
-        "number": 35,
+        "card_name": "Praetor Zealot",
+        "number": 31,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "131"
     },
     {
-        "card_name": "uu07 Void-Touched Colossus",
+        "card_name": "Star Reader",
         "number": 70,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "123"
+        "position": "194"
     },
     {
-        "card_name": "ub07 Nerazim Seer",
-        "number": 105,
+        "card_name": "Regenerative Baneling",
+        "number": 104,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "82"
+        "position": "80"
     },
     {
-        "card_name": "ur07 Ghost Recon",
-        "number": 140,
+        "card_name": "Raze the Infestation",
+        "number": 138,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "243"
+        "position": "153"
     },
     {
-        "card_name": "ug07 Brutalisk",
-        "number": 175,
+        "card_name": "Spartan Company",
+        "number": 172,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "141"
+        "position": "86"
     },
     {
-        "card_name": "uw08 Sieged Liberator",
-        "number": 36,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "227"
-    },
-    {
-        "card_name": "uu08 Consider Options",
-        "number": 71,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "205"
-    },
-    {
-        "card_name": "ub08 Mutually Assured Decimation",
-        "number": 106,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "57"
-    },
-    {
-        "card_name": "ur08 Leaping Strike",
-        "number": 141,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "118"
-    },
-    {
-        "card_name": "ug08 Raiders Reinforcements",
-        "number": 176,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "87"
-    },
-    {
-        "card_name": "uw09 Salvage Crew",
+        "card_name": "Salvage Crew",
         "number": 37,
         "shape": "normal",
         "set": "SCDS",
@@ -728,407 +848,167 @@
         "position": "134"
     },
     {
-        "card_name": "uu09 Psionic Consumption",
-        "number": 72,
+        "card_name": "Temporal Matrix",
+        "number": 73,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "166"
+        "position": "229"
     },
     {
-        "card_name": "ub09 Reconstitution",
-        "number": 107,
+        "card_name": "Returned Dragoon",
+        "number": 106,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "139"
+        "position": "79"
     },
     {
-        "card_name": "ur09 Raze the Infestation",
+        "card_name": "Swarm Broodlord",
         "number": 142,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "153"
+        "position": "162"
     },
     {
-        "card_name": "ug09 Swarm Siegebreaker",
-        "number": 177,
+        "card_name": "Swarm Host",
+        "number": 175,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Sieged Liberator",
+        "number": 39,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Void-Touched Colossus",
+        "number": 75,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Swarm Corruptor",
+        "number": 107,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Swarm Ultraling",
+        "number": 143,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Swarm Siegebreaker",
+        "number": 178,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "88"
     },
     {
-        "card_name": "uw10 Daelaam Mentor",
-        "number": 38,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "133"
-    },
-    {
-        "card_name": "uu10 Mutually Assured Disruption",
-        "number": 73,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "58"
-    },
-    {
-        "card_name": "ub10 Cull the Unworthy",
-        "number": 108,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "154"
-    },
-    {
-        "card_name": "ur10 Terrazine Addiction",
-        "number": 143,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "244"
-    },
-    {
-        "card_name": "ug10 Deep Mining Station",
-        "number": 178,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "89"
-    },
-    {
-        "card_name": "uw11 Mutually Assured Destruction",
-        "number": 39,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "55"
-    },
-    {
-        "card_name": "uu11 Warp In Structure",
-        "number": 74,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "124"
-    },
-    {
-        "card_name": "ub11 Infestation Process",
-        "number": 109,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "261"
-    },
-    {
-        "card_name": "ur11 Mutually Assured Devastation",
-        "number": 144,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "54"
-    },
-    {
-        "card_name": "ug11 Mutually Assured Demolition",
-        "number": 179,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "56"
-    },
-    {
-        "card_name": "uw12 Glory of Combat",
-        "number": 40,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "232"
-    },
-    {
-        "card_name": "uu12 Shuttle Drop",
-        "number": 75,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "125"
-    },
-    {
-        "card_name": "ub12 The Queen's Decree",
-        "number": 110,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "83"
-    },
-    {
-        "card_name": "ur12 Psionic Efficiency",
-        "number": 145,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "145"
-    },
-    {
-        "card_name": "ug12 Mend",
-        "number": 180,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "41"
-    },
-    {
-        "card_name": "uw13 Boundless Fury",
-        "number": 41,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "132"
-    },
-    {
-        "card_name": "uu13 Brood Overlord",
-        "number": 76,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "126"
-    },
-    {
-        "card_name": "ub13 Psionic Grip",
-        "number": 111,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "16"
-    },
-    {
-        "card_name": "ur13 Joyride",
-        "number": 146,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "186"
-    },
-    {
-        "card_name": "ug13 Repurpose Biomass",
-        "number": 181,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "241"
-    },
-    {
-        "card_name": "uw14 Excavation Job",
+        "card_name": "Transformative Vikings",
         "number": 42,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "207"
-    },
-    {
-        "card_name": "uu14 Temporal Matrix",
-        "number": 77,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "230"
-    },
-    {
-        "card_name": "ub14 Prophetic Visions",
-        "number": 112,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "98"
-    },
-    {
-        "card_name": "ur14 Necessary Sacrifices",
-        "number": 147,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "119"
-    },
-    {
-        "card_name": "ug14 Powered Combat Suit",
-        "number": 182,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "228"
     },
     {
-        "card_name": "cw01 Terran Medic",
-        "number": 8,
+        "card_name": "Warp In Structure",
+        "number": 76,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "138"
+        "position": "124"
     },
     {
-        "card_name": "cu01 Daelaam Adept",
-        "number": 43,
+        "card_name": "Tal'Darim Zealot",
+        "number": 110,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "67"
+        "position": "81"
     },
     {
-        "card_name": "cb01 Swarm Roach",
-        "number": 78,
+        "card_name": "Terrazine Addiction",
+        "number": 146,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "136"
+        "position": "243"
     },
     {
-        "card_name": "cr01 Terran Marine",
-        "number": 113,
+        "card_name": "Zergling Swarm",
+        "number": 182,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "251"
+        "position": "233"
     },
     {
-        "card_name": "cg02 Pygalisk",
-        "number": 148,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "26"
-    },
-    {
-        "card_name": "cw02 Raynor's Raiders",
-        "number": 9,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "184"
-    },
-    {
-        "card_name": "cu03 Nerazim Stalker",
-        "number": 44,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "142"
-    },
-    {
-        "card_name": "cb02 Caustic Baneling",
-        "number": 79,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "146"
-    },
-    {
-        "card_name": "cr02 Primal Ravager",
-        "number": 114,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "182"
-    },
-    {
-        "card_name": "cg03 Drop Pods",
-        "number": 149,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "51"
-    },
-    {
-        "card_name": "cw03 Daelaam Gloryseeker",
-        "number": 10,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "249"
-    },
-    {
-        "card_name": "cu04 Daelaam Phoenix",
-        "number": 45,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "27"
-    },
-    {
-        "card_name": "cb04 Nerazim Void Ray",
-        "number": 80,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "175"
-    },
-    {
-        "card_name": "cr04 Backwater Vulture",
-        "number": 115,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "147"
-    },
-    {
-        "card_name": "cg04 Rebel Goliath",
-        "number": 150,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "169"
-    },
-    {
-        "card_name": "cw05 Daelaam Zealot",
+        "card_name": "Bunker Down",
         "number": 11,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "159"
+        "position": "140"
     },
     {
-        "card_name": "cu06 Alpha Squadron Wraith",
-        "number": 46,
+        "card_name": "Alpha Squadron Wraith",
+        "number": 44,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "68"
     },
     {
-        "card_name": "cb06 Nerazim Warden",
-        "number": 81,
+        "card_name": "Brood Devourer",
+        "number": 80,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "168"
+        "position": "4"
     },
     {
-        "card_name": "cr05 Swarmling Pack",
-        "number": 116,
+        "card_name": "Backwater Vulture",
+        "number": 113,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "181"
+        "position": "147"
     },
     {
-        "card_name": "cg06 Brood Hydralisk",
-        "number": 151,
+        "card_name": "Brood Hydralisk",
+        "number": 149,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "22"
     },
     {
-        "card_name": "cw06 Fighter Viking",
+        "card_name": "Daelaam Gloryseeker",
         "number": 12,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "171"
+        "position": "248"
     },
     {
-        "card_name": "cu07 Carrier has Arrived",
+        "card_name": "Carrier has Arrived",
         "number": 47,
         "shape": "normal",
         "set": "SCDS",
@@ -1136,268 +1016,388 @@
         "position": "69"
     },
     {
-        "card_name": "cb08 Nerazim Voidhunters",
+        "card_name": "Caustic Baneling",
         "number": 82,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "256"
+        "position": "146"
     },
     {
-        "card_name": "cr06 Dominion Siege Tank",
-        "number": 117,
+        "card_name": "Calldown M.U.L.E.",
+        "number": 114,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "170"
+        "position": "232"
     },
     {
-        "card_name": "cg07 Swarm Ravager",
-        "number": 152,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "19"
-    },
-    {
-        "card_name": "cw07 Dominion Marauders",
-        "number": 13,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "250"
-    },
-    {
-        "card_name": "cu08 Vengeful Psionic",
-        "number": 48,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "1"
-    },
-    {
-        "card_name": "cb09 Brood Devourer",
-        "number": 83,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "4"
-    },
-    {
-        "card_name": "cr09 Dominion Thor",
-        "number": 118,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "3"
-    },
-    {
-        "card_name": "cg08 Hammer Security",
-        "number": 153,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "180"
-    },
-    {
-        "card_name": "cw08 Daelaam Scout",
-        "number": 14,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "70"
-    },
-    {
-        "card_name": "cu09 Hardened Carapace",
-        "number": 49,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "164"
-    },
-    {
-        "card_name": "cb10 Tremble Before Greatness",
-        "number": 84,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "255"
-    },
-    {
-        "card_name": "cr10 Snipe",
-        "number": 119,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "152"
-    },
-    {
-        "card_name": "cg10 Swarm Ultralisk",
-        "number": 154,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "2"
-    },
-    {
-        "card_name": "cw11 Purifier Colossus",
-        "number": 15,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "0"
-    },
-    {
-        "card_name": "cu10 Denial of Will",
-        "number": 50,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "46"
-    },
-    {
-        "card_name": "cb12 Regenerative Chrysalis",
-        "number": 85,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "158"
-    },
-    {
-        "card_name": "cr11 Stimpack Injection",
-        "number": 120,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "18"
-    },
-    {
-        "card_name": "cg11 Primal Ambush",
-        "number": 155,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "179"
-    },
-    {
-        "card_name": "cw13 Stasis Chamber",
-        "number": 16,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "172"
-    },
-    {
-        "card_name": "cu11 Scanner Sweep",
-        "number": 51,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "195"
-    },
-    {
-        "card_name": "cb13 Infestation",
-        "number": 86,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "135"
-    },
-    {
-        "card_name": "cr12 Victory Rally",
-        "number": 121,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "196"
-    },
-    {
-        "card_name": "cg12 Burrowed Charge",
-        "number": 156,
+        "card_name": "Burrowed Charge",
+        "number": 151,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "20"
     },
     {
-        "card_name": "cw14 Bunker Down",
-        "number": 17,
+        "card_name": "Daelaam Scout",
+        "number": 16,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "140"
+        "position": "70"
     },
     {
-        "card_name": "cu12 Templar's Insight",
-        "number": 52,
+        "card_name": "Daelaam Adept",
+        "number": 50,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "165"
+        "position": "67"
     },
     {
-        "card_name": "cb14 Crushing Grip",
-        "number": 87,
+        "card_name": "Crushing Grip",
+        "number": 83,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "24"
     },
     {
-        "card_name": "cr14 Calldown M.U.L.E.",
-        "number": 122,
+        "card_name": "Dominion Siege Tank",
+        "number": 119,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "233"
+        "position": "170"
     },
     {
-        "card_name": "cg13 Weave Potential",
-        "number": 157,
+        "card_name": "Drop Pods",
+        "number": 156,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "178"
+        "position": "51"
     },
     {
-        "card_name": "cw15 Siege Line",
-        "number": 18,
+        "card_name": "Daelaam Zealot",
+        "number": 17,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "202"
+        "position": "159"
     },
     {
-        "card_name": "cu13 Forced Into Hiding",
+        "card_name": "Daelaam Phoenix",
         "number": 53,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "183"
+        "position": "27"
     },
     {
-        "card_name": "cb15 Feedback Maelstrom",
-        "number": 88,
+        "card_name": "Feedback Maelstrom",
+        "number": 86,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "17"
     },
     {
-        "card_name": "cr15 Hunter Seeker Missle",
-        "number": 123,
+        "card_name": "Dominion Thor",
+        "number": 120,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Hammer Security",
+        "number": 159,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Dominion Marauders",
+        "number": 18,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "Denial of Will",
+        "number": 54,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Infestation",
+        "number": 87,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Hunter Seeker Missle",
+        "number": 127,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "176"
     },
     {
-        "card_name": "cg15 Spine Crawler",
-        "number": 158,
+        "card_name": "Primal Ambush",
+        "number": 164,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Fighter Viking",
+        "number": 21,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Forced Into Hiding",
+        "number": 57,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Nerazim Void Ray",
+        "number": 94,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Primal Ravager",
+        "number": 133,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Pygalisk",
+        "number": 167,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Purifier Colossus",
+        "number": 33,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Hardened Carapace",
+        "number": 59,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Nerazim Voidhunters",
+        "number": 95,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "Snipe",
+        "number": 140,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Rebel Goliath",
+        "number": 169,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Raynor's Raiders",
+        "number": 34,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Nerazim Stalker",
+        "number": 63,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Nerazim Warden",
+        "number": 96,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Stimpack Injection",
+        "number": 141,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Spine Crawler",
+        "number": 173,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "137"
+    },
+    {
+        "card_name": "Siege Line",
+        "number": 38,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Scanner Sweep",
+        "number": 67,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Regenerative Chrysalis",
+        "number": 105,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Swarmling Pack",
+        "number": 144,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Swarm Ravager",
+        "number": 177,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Stasis Chamber",
+        "number": 40,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Templar's Insight",
+        "number": 72,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Swarm Roach",
+        "number": 108,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Terran Marine",
+        "number": 145,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Swarm Ultralisk",
+        "number": 179,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Terran Medic",
+        "number": 41,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Vengeful Psionic",
+        "number": 74,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Tremble Before Greatness",
+        "number": 111,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "254"
+    },
+    {
+        "card_name": "Victory Rally",
+        "number": 147,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Weave Potential",
+        "number": 181,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "178"
     },
     {
         "card_name": "er"
@@ -1413,415 +1413,200 @@
     },
     "a->gold",
     {
-        "card_name": "rz02 Executor Selendis",
-        "number": 184,
+        "card_name": "Executor Selendis",
+        "number": 196,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "91"
     },
     {
-        "card_name": "rz04 Dark Prelate Zeratul",
-        "number": 185,
+        "card_name": "Dark Prelate Zeratul",
+        "number": 191,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "29"
     },
     {
-        "card_name": "rz05 Infested Researcher",
-        "number": 186,
+        "card_name": "Infested Researcher",
+        "number": 200,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "92"
     },
     {
-        "card_name": "rz08 Dehaka of the Broken Pack",
-        "number": 187,
+        "card_name": "Dehaka of the Broken Pack",
+        "number": 192,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "38"
     },
     {
-        "card_name": "rz10 Captain Matt Horner",
-        "number": 188,
+        "card_name": "Captain Matt Horner",
+        "number": 187,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "37"
     },
     {
-        "card_name": "rz01 Conclave Judicator",
-        "number": 226,
+        "card_name": "Conclave Judicator",
+        "number": 219,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "155"
     },
     {
-        "card_name": "rz03 Nerazim Matriarch",
-        "number": 227,
+        "card_name": "Nerazim Matriarch",
+        "number": 223,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "245"
+        "position": "244"
     },
     {
-        "card_name": "rz06 Stukov, Infested Officer",
-        "number": 228,
+        "card_name": "Stukov, Infested Officer",
+        "number": 227,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "199"
     },
     {
-        "card_name": "rz07 Primal Pack Leader",
-        "number": 229,
+        "card_name": "Primal Pack Leader",
+        "number": 225,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "39"
     },
     {
-        "card_name": "rz09 Merc Commander",
-        "number": 230,
+        "card_name": "Merc Commander",
+        "number": 222,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "5"
     },
     {
-        "card_name": "uz01 Daelaam Templar",
-        "number": 194,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "6"
-    },
-    {
-        "card_name": "uz03 Nerazim Templar",
-        "number": 196,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "7"
-    },
-    {
-        "card_name": "uz05 Infested Thor",
-        "number": 198,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "208"
-    },
-    {
-        "card_name": "uz07 Primal Viper",
-        "number": 200,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "10"
-    },
-    {
-        "card_name": "uz09 Backwater Miners",
-        "number": 202,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "52"
-    },
-    {
-        "card_name": "uz02 Daelaam Archon",
-        "number": 195,
+        "card_name": "Daelaam Archon",
+        "number": 189,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "59"
     },
     {
-        "card_name": "uz04 Nerazim Archon",
-        "number": 197,
+        "card_name": "Nerazim Archon",
+        "number": 202,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "60"
     },
     {
-        "card_name": "uz06 Swarm Infestor",
-        "number": 199,
+        "card_name": "Infested Thor",
+        "number": 201,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "61"
+        "position": "208"
     },
     {
-        "card_name": "uz08 Primal Brawl",
-        "number": 201,
+        "card_name": "Primal Brawl",
+        "number": 204,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "40"
     },
     {
-        "card_name": "uz10 Relief Effort",
+        "card_name": "Backwater Miners",
+        "number": 184,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Daelaam Templar",
+        "number": 190,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Nerazim Templar",
         "number": 203,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Swarm Infestor",
+        "number": 209,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Primal Viper",
+        "number": 205,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Relief Effort",
+        "number": 206,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "64"
     },
     {
-        "card_name": "cw12u Warrior's Creed",
-        "number": 223,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "260"
-    },
-    {
-        "card_name": "cu15b Void Pylon",
-        "number": 221,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "201"
-    },
-    {
-        "card_name": "cb07r Swarm Aberration",
-        "number": 215,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "231"
-    },
-    {
-        "card_name": "cr08g Zerus Primal",
-        "number": 219,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "252"
-    },
-    {
-        "card_name": "cg05w War Pigs",
-        "number": 217,
+        "card_name": "Warrior's Creed",
+        "number": 234,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "259"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "rz11 First Ascendant",
-        "number": 189,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "66"
-    },
-    {
-        "card_name": "rz18 Gabriel Tosh, Spectre",
-        "number": 192,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "156"
-    },
-    {
-        "card_name": "rz14 Zagara, Swarm Inheritor",
-        "number": 190,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "254"
-    },
-    {
-        "card_name": "rz19 Class Nine Ghost",
-        "number": 193,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "94"
-    },
-    {
-        "card_name": "rz16 Abathur, Evolution Perfectionist",
-        "number": 191,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "28"
-    },
-    {
-        "card_name": "rz12 Alarak, Tal'Darim Highlord",
-        "number": 231,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "8"
-    },
-    {
-        "card_name": "rz17 Terrazine Researcher",
-        "number": 234,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "90"
-    },
-    {
-        "card_name": "rz13 Broodmother Queen",
+        "card_name": "Void Pylon",
         "number": 232,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "253"
+        "position": "201"
     },
     {
-        "card_name": "rz20 Prince Valerian Mengsk",
+        "card_name": "Swarm Aberration",
+        "number": 228,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Zerus Primal",
         "number": 235,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "157"
+        "position": "251"
     },
     {
-        "card_name": "rz15 Advisor's Insight",
+        "card_name": "War Pigs",
         "number": 233,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "93"
-    },
-    {
-        "card_name": "uz11 Tal'Darim Templar",
-        "number": 204,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "65"
-    },
-    {
-        "card_name": "uz17 Rogue Spectre",
-        "number": 210,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "268"
-    },
-    {
-        "card_name": "uz13 Brood Defiler",
-        "number": 206,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "11"
-    },
-    {
-        "card_name": "uz19 Dominion Marine",
-        "number": 212,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "246"
-    },
-    {
-        "card_name": "uz15 Brood Larva",
-        "number": 208,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "33"
-    },
-    {
-        "card_name": "uz12 Tal'Darim Archon",
-        "number": 205,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "9"
-    },
-    {
-        "card_name": "uz18 Terrazine Infusion",
-        "number": 211,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "267"
-    },
-    {
-        "card_name": "uz14 Devouring One",
-        "number": 207,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "210"
-    },
-    {
-        "card_name": "uz20 Delta Squad Hellbat",
-        "number": 213,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "63"
-    },
-    {
-        "card_name": "uz16 Swarm Hatchery",
-        "number": 209,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "32"
-    },
-    {
-        "card_name": "cb03w Tal'Darim Supplicant",
-        "number": 214,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "248"
-    },
-    {
-        "card_name": "cr03u Terrazine Infiltrator",
-        "number": 218,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "143"
-    },
-    {
-        "card_name": "cg01 Brood Zergling",
-        "number": 216,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "257"
-    },
-    {
-        "card_name": "cw10r Behemoth Battlecruiser",
-        "number": 222,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "71"
-    },
-    {
-        "card_name": "cu05g Plated Ultralisk",
-        "number": 220,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
@@ -1843,24 +1628,239 @@
         "card_name": "er"
     },
     {
-        "card_name": "mz03 Hierarch Artanis",
+        "card_name": "First Ascendant",
+        "number": 197,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Gabriel Tosh, Spectre",
+        "number": 198,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Zagara, Swarm Inheritor",
+        "number": 213,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "Class Nine Ghost",
+        "number": 188,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Abathur, Evolution Perfectionist",
         "number": 183,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Alarak, Tal'Darim Highlord",
+        "number": 215,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Terrazine Researcher",
+        "number": 231,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Broodmother Queen",
+        "number": 218,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "Prince Valerian Mengsk",
+        "number": 226,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Advisor's Insight",
+        "number": 214,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Tal'Darim Archon",
+        "number": 210,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Rogue Spectre",
+        "number": 207,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "Brood Defiler",
+        "number": 185,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Delta Squad Hellbat",
+        "number": 193,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Brood Larva",
+        "number": 186,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Tal'Darim Templar",
+        "number": 211,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Terrazine Infusion",
+        "number": 212,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "Devouring One",
+        "number": 194,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Dominion Marine",
+        "number": 195,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Swarm Hatchery",
+        "number": 208,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Tal'Darim Supplicant",
+        "number": 229,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Terrazine Infiltrator",
+        "number": 230,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Brood Zergling",
+        "number": 217,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "Behemoth Battlecruiser",
+        "number": 216,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Plated Ultralisk",
+        "number": 224,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Hierarch Artanis",
+        "number": 199,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "30"
     },
     {
-        "card_name": "mz01 James Raynor, Revolutionary",
-        "number": 224,
+        "card_name": "James Raynor, Revolutionary",
+        "number": 220,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "206"
     },
     {
-        "card_name": "mz02 Kerrigan, Swarm Queen",
-        "number": 225,
+        "card_name": "Kerrigan, Swarm Queen",
+        "number": 221,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
@@ -1886,79 +1886,95 @@
     },
     "a->colorless",
     {
-        "card_name": "ma02 Terror of the Void",
-        "number": 3,
+        "card_name": "Terror of the Void",
+        "number": 7,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "213"
     },
     {
-        "card_name": "ma01 The Xel'Naga Keystone",
-        "number": 240,
+        "card_name": "The Xel'Naga Keystone",
+        "number": 246,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "115"
     },
     {
-        "card_name": "ra03 Psionic Reaver",
-        "number": 4,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "225"
-    },
-    {
-        "card_name": "ra04 Despair Manifested",
-        "number": 5,
+        "card_name": "Despair Manifested",
+        "number": 1,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "100"
     },
     {
-        "card_name": "ra01 Turbojet Jumpsuit",
-        "number": 241,
+        "card_name": "Psionic Reaver",
+        "number": 5,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "212"
+        "position": "224"
     },
     {
-        "card_name": "ra02 Mining Contract",
-        "number": 242,
+        "card_name": "Mining Contract",
+        "number": 239,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "99"
     },
     {
-        "card_name": "ua04 Dominator of Essence",
-        "number": 6,
+        "card_name": "Turbojet Jumpsuit",
+        "number": 245,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Dominator of Essence",
+        "number": 2,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "197"
     },
     {
-        "card_name": "ua05 Dominator of Form",
-        "number": 7,
+        "card_name": "Dominator of Form",
+        "number": 3,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "198"
     },
     {
-        "card_name": "ua01 Lost Viking",
-        "number": 243,
+        "card_name": "Khaydarin Amulet",
+        "number": 237,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Lost Viking",
+        "number": 238,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "72"
     },
     {
-        "card_name": "ua02 Roaming Reaver",
+        "card_name": "Mobile Utility Lunar Excavator",
+        "number": 241,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Roaming Reaver",
         "number": 244,
         "shape": "normal",
         "set": "SCDS",
@@ -1966,39 +1982,23 @@
         "position": "74"
     },
     {
-        "card_name": "ua03 Mobile Utility Lunar Excavator",
-        "number": 245,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "73"
-    },
-    {
-        "card_name": "ua06 Khaydarin Amulet",
-        "number": 246,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "75"
-    },
-    {
-        "card_name": "ca03 Hybrid Reaver",
-        "number": 1,
+        "card_name": "Hybrid Reaver",
+        "number": 4,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "50"
     },
     {
-        "card_name": "ca05 Strike from Reality",
-        "number": 2,
+        "card_name": "Strike from Reality",
+        "number": 6,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "185"
     },
     {
-        "card_name": "ca01 Autonomous Probes",
+        "card_name": "Autonomous Probes",
         "number": 236,
         "shape": "normal",
         "set": "SCDS",
@@ -2006,37 +2006,34 @@
         "position": "48"
     },
     {
-        "card_name": "ca02 Purifier Zealot",
-        "number": 237,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "49"
-    },
-    {
-        "card_name": "ca04 Psionic Blades",
-        "number": 238,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "23"
-    },
-    {
-        "card_name": "ca06 Mining Zone",
-        "number": 239,
+        "card_name": "Mining Zone",
+        "number": 240,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "45"
     },
     {
-        "card_name": "e"
+        "card_name": "Psionic Blades",
+        "number": 242,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Purifier Zealot",
+        "number": 243,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "49"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2051,39 +2048,42 @@
         "card_name": "er"
     },
     {
-        "card_name": "cu14w land wu Ancient Temple",
-        "number": 254,
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ancient Temple",
+        "number": 247,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "214"
     },
     {
-        "card_name": "cb11u land ub Shadowed Cityscape",
-        "number": 248,
+        "card_name": "Shadowed Cityscape",
+        "number": 258,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "247"
+        "position": "246"
     },
     {
-        "card_name": "cr07b land br Molten Growth",
-        "number": 251,
+        "card_name": "Molten Growth",
+        "number": 255,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "215"
     },
     {
-        "card_name": "cg09r land rg Untamed Brood",
-        "number": 249,
+        "card_name": "Untamed Brood",
+        "number": 260,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "216"
     },
     {
-        "card_name": "cw09g land gw Orbital Terrarium",
+        "card_name": "Orbital Terrarium",
         "number": 256,
         "shape": "normal",
         "set": "SCDS",
@@ -2106,40 +2106,40 @@
         "card_name": "er"
     },
     {
-        "card_name": "cw04b land wb Fanatical Temple",
-        "number": 255,
+        "card_name": "Fanatical Temple",
+        "number": 250,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "218"
     },
     {
-        "card_name": "cu02r land ur Gas Refinery",
-        "number": 253,
+        "card_name": "Gas Refinery",
+        "number": 252,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "221"
     },
     {
-        "card_name": "cb05g land bg Thriving Infestation",
-        "number": 247,
+        "card_name": "Thriving Infestation",
+        "number": 259,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "219"
     },
     {
-        "card_name": "cr13w land rw Backwater Outpost",
-        "number": 252,
+        "card_name": "Backwater Outpost",
+        "number": 248,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "222"
     },
     {
-        "card_name": "cg14u land gu Creeping Pool",
-        "number": 250,
+        "card_name": "Creeping Pool",
+        "number": 249,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
@@ -2161,7 +2161,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "ra05 Rich Mineral Field",
+        "card_name": "Rich Mineral Field",
         "number": 257,
         "shape": "normal",
         "set": "SCDS",
@@ -2169,36 +2169,36 @@
         "position": "192"
     },
     {
-        "card_name": "ua07 Mineral Field",
-        "number": 258,
+        "card_name": "Feral Spawning Pool",
+        "number": 251,
+        "shape": "normal",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Mineral Field",
+        "number": 253,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "25"
     },
     {
-        "card_name": "ua08 Mobile Barracks",
-        "number": 259,
+        "card_name": "Mobile Barracks",
+        "number": 254,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
         "position": "76"
     },
     {
-        "card_name": "ua09 Warp Gateway",
-        "number": 260,
-        "shape": "normal",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "77"
-    },
-    {
-        "card_name": "ua10 Feral Spawning Pool",
+        "card_name": "Warp Gateway",
         "number": 261,
         "shape": "normal",
         "set": "SCDS",
         "rotated": false,
-        "position": "78"
+        "position": "77"
     },
     {
         "card_name": "er"
@@ -2214,7 +2214,7 @@
     },
     "a->token",
     {
-        "card_name": "tc00 StarCraft Draft Archetypes",
+        "card_name": "StarCraft Draft Archetypes",
         "number": 1,
         "shape": "token",
         "set": "SCDS",
@@ -2222,7 +2222,7 @@
         "position": "200"
     },
     {
-        "card_name": "tc01 Mineral",
+        "card_name": "Mineral",
         "number": 3,
         "shape": "token",
         "set": "SCDS",
@@ -2230,52 +2230,47 @@
         "position": "12"
     },
     {
-        "card_name": "tc02 Vespene P",
+        "card_name": "Protoss",
         "number": 4,
-        "shape": "token",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "13"
-    },
-    {
-        "card_name": "tc02 Vespene T",
-        "number": 5,
-        "shape": "token",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "14"
-    },
-    {
-        "card_name": "tc02 Vespene Z",
-        "number": 6,
-        "shape": "token",
-        "set": "SCDS",
-        "rotated": false,
-        "position": "15"
-    },
-    {
-        "card_name": "tc03 Protoss",
-        "number": 7,
         "shape": "token",
         "set": "SCDS",
         "rotated": false,
         "position": "211"
     },
     {
-        "card_name": "tc04 Terran",
-        "number": 8,
+        "card_name": "Vespene",
+        "number": 5,
         "shape": "token",
         "set": "SCDS",
         "rotated": false,
-        "position": "223"
+        "position": "13"
     },
     {
-        "card_name": "tz01 Zerg",
+        "card_name": "Vespene",
+        "number": 6,
+        "shape": "token",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Vespene",
+        "number": 7,
+        "shape": "token",
+        "set": "SCDS",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Zerg",
         "number": 2,
         "shape": "token",
         "set": "SCDS",
         "rotated": false,
         "position": "21"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

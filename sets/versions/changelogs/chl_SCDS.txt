@@ -1,4 +1,547 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Purifier Colossus added.
+Vengeful Psionic added.
+Swarm Ultralisk added.
+Dominion Thor added.
+Brood Devourer added.
+Merc Commander added.
+Daelaam Templar added.
+Nerazim Templar added.
+Alarak, Tal'Darim Highlord added.
+Tal'Darim Archon added.
+Primal Viper added.
+Brood Defiler added.
+Mineral added.
+Vespene added.
+Vespene added.
+Vespene added.
+Psionic Grip added.
+Feedback Maelstrom added.
+Stimpack Injection added.
+Swarm Ravager added.
+Burrowed Charge added.
+Zerg added.
+Brood Hydralisk added.
+Psionic Blades added.
+Crushing Grip added.
+Mineral Field added.
+Pygalisk added.
+Daelaam Phoenix added.
+Abathur, Evolution Perfectionist added.
+Dark Prelate Zeratul added.
+Hierarch Artanis added.
+Kerrigan, Swarm Queen added.
+Swarm Hatchery added.
+Brood Larva added.
+Prophecy of Salvation added.
+Prophecy of Destruction added.
+Tassadar, Heretical Saviour added.
+Captain Matt Horner added.
+Dehaka of the Broken Pack added.
+Primal Pack Leader added.
+Primal Brawl added.
+Mend added.
+Prophecy of Creation added.
+Prophecy of Unity added.
+Prophecy of Uncertanty added.
+Mining Zone added.
+Denial of Will added.
+Akhundelar added.
+Autonomous Probes added.
+Purifier Zealot added.
+Hybrid Reaver added.
+Drop Pods added.
+Backwater Miners added.
+Swarm Leviathan added.
+Mutually Assured Devastation added.
+Mutually Assured Destruction added.
+Mutually Assured Demolition added.
+Mutually Assured Decimation added.
+Mutually Assured Disruption added.
+Daelaam Archon added.
+Nerazim Archon added.
+Swarm Infestor added.
+Creeper Host added.
+Delta Squad Hellbat added.
+Relief Effort added.
+Tal'Darim Templar added.
+First Ascendant added.
+Daelaam Adept added.
+Alpha Squadron Wraith added.
+Carrier has Arrived added.
+Daelaam Scout added.
+Behemoth Battlecruiser added.
+Lost Viking added.
+Mobile Utility Lunar Excavator added.
+Roaming Reaver added.
+Khaydarin Amulet added.
+Mobile Barracks added.
+Warp Gateway added.
+Feral Spawning Pool added.
+Returned Dragoon added.
+Regenerative Baneling added.
+Tal'Darim Zealot added.
+Nerazim Seer added.
+The Queen's Decree added.
+Expo Scouts added.
+Swarm Host added.
+Spartan Company added.
+Raiders Reinforcements added.
+Swarm Siegebreaker added.
+Deep Mining Station added.
+Terrazine Researcher added.
+Executor Selendis added.
+Infested Researcher added.
+Advisor's Insight added.
+Class Nine Ghost added.
+Biomass Assimilator added.
+Tal'Darim Blood Hunter added.
+Brood Leviathan added.
+Prophetic Visions added.
+Mining Contract added.
+Despair Manifested added.
+Terror of the Hive added.
+Broken Horn Pack added.
+Death Head Salvager added.
+Ravenous Swarm added.
+Moebius Mining Team added.
+Covert Operative added.
+Shadow Operative added.
+Overqueen Harvester added.
+Wisdom of the Collective added.
+Daelaam Praetor added.
+Daelaam Immortal added.
+Emperor Arcturus Mengsk added.
+Daelaam Illusionist added.
+Kaiser Ultralisk added.
+The Xel'Naga Keystone added.
+Swarm Ultraling added.
+Raptor Strain added.
+Leaping Strike added.
+Necessary Sacrifices added.
+Ground Support added.
+Escaped Specimen added.
+Adept Praetor added.
+Void-Touched Colossus added.
+Warp In Structure added.
+Shuttle Drop added.
+Brood Overlord added.
+Marine Patrol added.
+Eternal Dragoon added.
+Lockdown Specialist added.
+Aiur Veteran added.
+Praetor Zealot added.
+Boundless Fury added.
+Daelaam Mentor added.
+Salvage Crew added.
+Infestation added.
+Swarm Roach added.
+Spine Crawler added.
+Terran Medic added.
+Reconstitution added.
+Bunker Down added.
+Brutalisk added.
+Nerazim Stalker added.
+Terrazine Infiltrator added.
+Derelict Infiltrator added.
+Psionic Efficiency added.
+Caustic Baneling added.
+Backwater Vulture added.
+Frontline Combatant added.
+Relentless Brood added.
+Aspiring Ascendant added.
+Dominion Ghost added.
+Snipe added.
+Raze the Infestation added.
+Cull the Unworthy added.
+Conclave Judicator added.
+Gabriel Tosh, Spectre added.
+Prince Valerian Mengsk added.
+Regenerative Chrysalis added.
+Daelaam Zealot added.
+The Overmind added.
+Endless March of the Swarm added.
+Swarm Broodlord added.
+Swarm Corruptor added.
+Hardened Carapace added.
+Templar's Insight added.
+Psionic Consumption added.
+Void Extractor added.
+Nerazim Warden added.
+Rebel Goliath added.
+Dominion Siege Tank added.
+Fighter Viking added.
+Stasis Chamber added.
+Dominion Assault Trooper added.
+Infested Fortress added.
+Nerazim Void Ray added.
+Hunter Seeker Missle added.
+Nerazim Corsair added.
+Weave Potential added.
+Primal Ambush added.
+Hammer Security added.
+Swarmling Pack added.
+Primal Ravager added.
+Forced Into Hiding added.
+Raynor's Raiders added.
+Strike from Reality added.
+Joyride added.
+Daelaam Mothership added.
+Nerazim Tempest added.
+Gorgon Battlecruiser added.
+Rebel Command Ship added.
+Primordial Law added.
+Rich Mineral Field added.
+Scouting Zergling added.
+Star Reader added.
+Scanner Sweep added.
+Victory Rally added.
+Dominator of Essence added.
+Dominator of Form added.
+Stukov, Infested Officer added.
+StarCraft Draft Archetypes added.
+Void Pylon added.
+Siege Line added.
+Doctor Ariel Hanson added.
+Gantrithor, Flagship added.
+Consider Options added.
+James Raynor, Revolutionary added.
+Excavation Job added.
+Infested Thor added.
+Fury of the Queen added.
+Devouring One added.
+Protoss added.
+Turbojet Jumpsuit added.
+Terror of the Void added.
+Ancient Temple added.
+Molten Growth added.
+Untamed Brood added.
+Orbital Terrarium added.
+Fanatical Temple added.
+Thriving Infestation added.
+Creeping Pool added.
+Gas Refinery added.
+Backwater Outpost added.
+Nerazim Oracle added.
+Psionic Reaver added.
+Medical Lieutenant added.
+Sieged Liberator added.
+Powered Combat Suit added.
+Transformative Vikings added.
+Temporal Matrix added.
+Swarm Aberration added.
+Glory of Combat added.
+Calldown M.U.L.E. added.
+Zergling Swarm added.
+Guardian Templar added.
+Earthsplitter Ordnance added.
+Power Incarnate added.
+Hive Queen added.
+Chrono Manipulator added.
+Fracture Point added.
+Repurpose Biomass added.
+Hellion Strike Team added.
+Ghost Recon added.
+Terrazine Addiction added.
+Nerazim Matriarch added.
+Dominion Marine added.
+Shadowed Cityscape added.
+Tal'Darim Supplicant added.
+Daelaam Gloryseeker added.
+Dominion Marauders added.
+Terran Marine added.
+Zerus Primal added.
+Broodmother Queen added.
+Zagara, Swarm Inheritor added.
+Tremble Before Greatness added.
+Nerazim Voidhunters added.
+Brood Zergling added.
+Plated Ultralisk added.
+War Pigs added.
+Warrior's Creed added.
+Infestation Process added.
+Swarm Command added.
+Dominion Command added.
+Diabolic Command added.
+Analytical Command added.
+Rebel Command added.
+Terrazine Infusion added.
+Rogue Spectre added.
+
+cw11 Purifier Colossus removed.
+cu08 Vengeful Psionic removed.
+cg10 Swarm Ultralisk removed.
+cr09 Dominion Thor removed.
+cb09 Brood Devourer removed.
+rz09 Merc Commander removed.
+uz01 Daelaam Templar removed.
+uz03 Nerazim Templar removed.
+rz12 Alarak, Tal'Darim Highlord removed.
+uz12 Tal'Darim Archon removed.
+uz07 Primal Viper removed.
+uz13 Brood Defiler removed.
+tc01 Mineral removed.
+tc02 Vespene P removed.
+tc02 Vespene T removed.
+tc02 Vespene Z removed.
+ub13 Psionic Grip removed.
+cb15 Feedback Maelstrom removed.
+cr11 Stimpack Injection removed.
+cg07 Swarm Ravager removed.
+cg12 Burrowed Charge removed.
+tz01 Zerg removed.
+cg06 Brood Hydralisk removed.
+ca04 Psionic Blades removed.
+cb14 Crushing Grip removed.
+ua07 Mineral Field removed.
+cg02 Pygalisk removed.
+cu04 Daelaam Phoenix removed.
+rz16 Abathur, Evolution Perfectionist removed.
+rz04 Dark Prelate Zeratul removed.
+mz03 Hierarch Artanis removed.
+mz02 Kerrigan, Swarm Queen removed.
+uz16 Swarm Hatchery removed.
+uz15 Brood Larva removed.
+rw06 Prophecy of Salvation removed.
+rb06 Prophecy of Destruction removed.
+mu03 Tassadar, Heretical Saviour removed.
+rz10 Captain Matt Horner removed.
+rz08 Dehaka of the Broken Pack removed.
+rz07 Primal Pack Leader removed.
+uz08 Primal Brawl removed.
+ug12 Mend removed.
+rr06 Prophecy of Creation removed.
+rg06 Prophecy of Unity removed.
+ru06 Prophecy of Uncertanty removed.
+ca06 Mining Zone removed.
+cu10 Denial of Will removed.
+mw01 Akhundelar removed.
+ca01 Autonomous Probes removed.
+ca02 Purifier Zealot removed.
+ca03 Hybrid Reaver removed.
+cg03 Drop Pods removed.
+uz09 Backwater Miners removed.
+mg02 Swarm Leviathan removed.
+ur11 Mutually Assured Devastation removed.
+uw11 Mutually Assured Destruction removed.
+ug11 Mutually Assured Demolition removed.
+ub08 Mutually Assured Decimation removed.
+uu10 Mutually Assured Disruption removed.
+uz02 Daelaam Archon removed.
+uz04 Nerazim Archon removed.
+uz06 Swarm Infestor removed.
+ug06 Creeper Host removed.
+uz20 Delta Squad Hellbat removed.
+uz10 Relief Effort removed.
+uz11 Tal'Darim Templar removed.
+rz11 First Ascendant removed.
+cu01 Daelaam Adept removed.
+cu06 Alpha Squadron Wraith removed.
+cu07 Carrier has Arrived removed.
+cw08 Daelaam Scout removed.
+cw10r Behemoth Battlecruiser removed.
+ua01 Lost Viking removed.
+ua03 Mobile Utility Lunar Excavator removed.
+ua02 Roaming Reaver removed.
+ua06 Khaydarin Amulet removed.
+ua08 Mobile Barracks removed.
+ua09 Warp Gateway removed.
+ua10 Feral Spawning Pool removed.
+ub01 Returned Dragoon removed.
+ub02 Regenerative Baneling removed.
+ub06 Tal'Darim Zealot removed.
+ub07 Nerazim Seer removed.
+ub12 The Queen's Decree removed.
+ug02 Expo Scouts removed.
+ug04 Swarm Host removed.
+ug05 Spartan Company removed.
+ug08 Raiders Reinforcements removed.
+ug09 Swarm Siegebreaker removed.
+ug10 Deep Mining Station removed.
+rz17 Terrazine Researcher removed.
+rz02 Executor Selendis removed.
+rz05 Infested Researcher removed.
+rz15 Advisor's Insight removed.
+rz19 Class Nine Ghost removed.
+rb01 Biomass Assimilator removed.
+rb03 Tal'Darim Blood Hunter removed.
+rb04 Brood Leviathan removed.
+ub14 Prophetic Visions removed.
+ra02 Mining Contract removed.
+ra04 Despair Manifested removed.
+rg01 Terror of the Hive removed.
+rg02 Broken Horn Pack removed.
+rg03 Death Head Salvager removed.
+rr01 Ravenous Swarm removed.
+rr03 Moebius Mining Team removed.
+rr02 Covert Operative removed.
+mu01 Shadow Operative removed.
+ru02 Overqueen Harvester removed.
+ru07 Wisdom of the Collective removed.
+rw01 Daelaam Praetor removed.
+rw03 Daelaam Immortal removed.
+mr01 Emperor Arcturus Mengsk removed.
+ru01 Daelaam Illusionist removed.
+mb01 Kaiser Ultralisk removed.
+ma01 The Xel'Naga Keystone removed.
+ur03 Swarm Ultraling removed.
+ur04 Raptor Strain removed.
+ur08 Leaping Strike removed.
+ur14 Necessary Sacrifices removed.
+uu02 Ground Support removed.
+uu06 Escaped Specimen removed.
+uu05 Adept Praetor removed.
+uu07 Void-Touched Colossus removed.
+uu11 Warp In Structure removed.
+uu12 Shuttle Drop removed.
+uu13 Brood Overlord removed.
+uw02 Marine Patrol removed.
+uw03 Eternal Dragoon removed.
+uw04 Lockdown Specialist removed.
+uw05 Aiur Veteran removed.
+uw07 Praetor Zealot removed.
+uw13 Boundless Fury removed.
+uw10 Daelaam Mentor removed.
+uw09 Salvage Crew removed.
+cb13 Infestation removed.
+cb01 Swarm Roach removed.
+cg15 Spine Crawler removed.
+cw01 Terran Medic removed.
+ub09 Reconstitution removed.
+cw14 Bunker Down removed.
+ug07 Brutalisk removed.
+cu03 Nerazim Stalker removed.
+cr03u Terrazine Infiltrator removed.
+ru03 Derelict Infiltrator removed.
+ur12 Psionic Efficiency removed.
+cb02 Caustic Baneling removed.
+cr04 Backwater Vulture removed.
+uw01 Frontline Combatant removed.
+rr04 Relentless Brood removed.
+ub04 Aspiring Ascendant removed.
+ur05 Dominion Ghost removed.
+cr10 Snipe removed.
+ur09 Raze the Infestation removed.
+ub10 Cull the Unworthy removed.
+rz01 Conclave Judicator removed.
+rz18 Gabriel Tosh, Spectre removed.
+rz20 Prince Valerian Mengsk removed.
+cb12 Regenerative Chrysalis removed.
+cw05 Daelaam Zealot removed.
+mb03 The Overmind removed.
+mg03 Endless March of the Swarm removed.
+ur06 Swarm Broodlord removed.
+ub03 Swarm Corruptor removed.
+cu09 Hardened Carapace removed.
+cu12 Templar's Insight removed.
+uu09 Psionic Consumption removed.
+rb02 Void Extractor removed.
+cb06 Nerazim Warden removed.
+cg04 Rebel Goliath removed.
+cr06 Dominion Siege Tank removed.
+cw06 Fighter Viking removed.
+cw13 Stasis Chamber removed.
+ur01 Dominion Assault Trooper removed.
+ub05 Infested Fortress removed.
+cb04 Nerazim Void Ray removed.
+cr15 Hunter Seeker Missle removed.
+uu04 Nerazim Corsair removed.
+cg13 Weave Potential removed.
+cg11 Primal Ambush removed.
+cg08 Hammer Security removed.
+cr05 Swarmling Pack removed.
+cr02 Primal Ravager removed.
+cu13 Forced Into Hiding removed.
+cw02 Raynor's Raiders removed.
+ca05 Strike from Reality removed.
+ur13 Joyride removed.
+mu02 Daelaam Mothership removed.
+mb02 Nerazim Tempest removed.
+mr02 Gorgon Battlecruiser removed.
+mw02 Rebel Command Ship removed.
+rg07 Primordial Law removed.
+ra05 Rich Mineral Field removed.
+ug03 Scouting Zergling removed.
+uu03 Star Reader removed.
+cu11 Scanner Sweep removed.
+cr12 Victory Rally removed.
+ua04 Dominator of Essence removed.
+ua05 Dominator of Form removed.
+rz06 Stukov, Infested Officer removed.
+tc00 StarCraft Draft Archetypes removed.
+cu15b Void Pylon removed.
+cw15 Siege Line removed.
+mg01 Doctor Ariel Hanson removed.
+mw03 Gantrithor, Flagship removed.
+uu08 Consider Options removed.
+mz01 James Raynor, Revolutionary removed.
+uw14 Excavation Job removed.
+uz05 Infested Thor removed.
+mr03 Fury of the Queen removed.
+uz14 Devouring One removed.
+tc03 Protoss removed.
+ra01 Turbojet Jumpsuit removed.
+ma02 Terror of the Void removed.
+cu14w land wu Ancient Temple removed.
+cr07b land br Molten Growth removed.
+cg09r land rg Untamed Brood removed.
+cw09g land gw Orbital Terrarium removed.
+cw04b land wb Fanatical Temple removed.
+cb05g land bg Thriving Infestation removed.
+cg14u land gu Creeping Pool removed.
+cu02r land ur Gas Refinery removed.
+cr13w land rw Backwater Outpost removed.
+tc04 Terran removed.
+uu01 Nerazim Oracle removed.
+ra03 Psionic Reaver removed.
+rw02 Medical Lieutenant removed.
+uw08 Sieged Liberator removed.
+ug14 Powered Combat Suit removed.
+uw06 Transformative Vikings removed.
+uu14 Temporal Matrix removed.
+cb07r Swarm Aberration removed.
+uw12 Glory of Combat removed.
+cr14 Calldown M.U.L.E. removed.
+ug01 Zergling Swarm removed.
+rw04 Guardian Templar removed.
+rr07 Earthsplitter Ordnance removed.
+rb07 Power Incarnate removed.
+rg04 Hive Queen removed.
+ru04 Chrono Manipulator removed.
+rw07 Fracture Point removed.
+ug13 Repurpose Biomass removed.
+ur02 Hellion Strike Team removed.
+ur07 Ghost Recon removed.
+ur10 Terrazine Addiction removed.
+rz03 Nerazim Matriarch removed.
+uz19 Dominion Marine removed.
+cb11u land ub Shadowed Cityscape removed.
+cb03w Tal'Darim Supplicant removed.
+cw03 Daelaam Gloryseeker removed.
+cw07 Dominion Marauders removed.
+cr01 Terran Marine removed.
+cr08g Zerus Primal removed.
+rz13 Broodmother Queen removed.
+rz14 Zagara, Swarm Inheritor removed.
+cb10 Tremble Before Greatness removed.
+cb08 Nerazim Voidhunters removed.
+cg01 Brood Zergling removed.
+cu05g Plated Ultralisk removed.
+cg05w War Pigs removed.
+cw12u Warrior's Creed removed.
+ub11 Infestation Process removed.
+rg05 Swarm Command removed.
+rr05 Dominion Command removed.
+rb05 Diabolic Command removed.
+ru05 Analytical Command removed.
+rw05 Rebel Command removed.
+uz18 Terrazine Infusion removed.
+uz17 Rogue Spectre removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
